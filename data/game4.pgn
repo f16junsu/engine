@@ -1,0 +1,10 @@
+[Event "Game4"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16"]
+[Black "Stockfish 16"]
+[Result "*"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Bd2 Be7 6. Nf3 c6 7. O-O O-O 8. Qc2 b6 9. Ne5 Bb7 10. cxd5 cxd5 11. Rc1 Ne4 12. a3 Nd6 13. Bb4 Na6 14. e3 Nxb4 15. axb4 a6 16. Qb3 Bf6 17. Nd2 Bxe5 18. dxe5 Nb5 19. Rd1 Qc7 20. f4 d4 21. e4 Rfd8 22. Bf1 d3 23. Bxd3 Rac8 24. Nf3 Nd4 25. Nxd4 Rxd4 26. Kf2 Qe7 27. Rac1 Rcd8 28. b5 axb5 29. Bxb5 Rxd1 30. Rxd1 Rxd1 31. Qxd1 Qc5+ 32. Kf3 h5 33. Be2 Qb4 34. Qc2 Qd4 35. h3 g6 36. h4 Kg7 37. Bd3 Ba8 38. Be2 Bb7 39. Qb1 Qb4 40. Qc2 Qe1 41. Qd1 Qb4 42. Qc2 Qe1 43. Qd1 Qb4 44. Qc2 Qe1 45. Qd1 Qb4 46. Qc2 Qe1 47. Qd1 Qb4 48. Qc2 *
+

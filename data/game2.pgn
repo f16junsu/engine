@@ -1,0 +1,10 @@
+[Event "Game2"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Stockfish 16"]
+[Black "Stockfish 16"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5 8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Bxd4 13. Nc3 Ne8 14. Nd5 d6 15. Bg5 f6 16. Bh4 Bxb2 17. Rb1 Be5 18. f4 c6 19. fxe5 cxd5 20. exf6 Nxf6 21. Bd3 Bd7 22. Qc3 Bc6 23. Qd4 Qe7 24. Re1 Qf7 25. Rf1 Rf8 26. Bxf6 gxf6 27. Qxa7 Qe7 28. Qf2 f5 29. Bxf5 Kh8 30. c3 Qe5 31. Qd4 Qxd4+ 32. cxd4 Ra8 33. Rf4 h6 34. Rf2 Ra4 35. Rd2 Bb5 36. Bc8 b6 37. Rb2 Be8 38. Rxb6 Kg7 39. Rxd6 Rxd4 40. Ra6 Bg6 41. Kf2 Rd2+ 42. Kg3 Be4 43. Bh3 d4 44. a4 d3 45. Rd6 Ra2 46. Rd4 d2 47. Be6 d1=Q 48. Rxd1 Rxa4 49. Rd2 h5 50. Bd7 Rb4 51. h3 h4+ 52. Kxh4 Bxg2+ 53. Kg5 Be4 54. Rd6 Rc4 55. Rb6 Rc5+ 56. Kf4 Bd3 57. h4 Rc4+ 58. Kg3 Be2 59. Be8 Rg4+ 60. Kh3 Rg1 61. h5 Bd3 62. Kh4 Bf5 63. h6+ Kh7 64. Bh5 Rc1 65. Rd6 Rg1 66. Ra6 Bd3 67. Rd6 Rh1+ 68. Kg5 Rg1+ 69. Kh4 Bg6 70. Bxg6+ Rxg6 71. Rxg6 Kxg6 72. h7 Kxh7 *
+
